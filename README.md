@@ -8,3 +8,10 @@
     <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </p>
+
+<p align="center">Estudando</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,mongodb" />
+  </a>
+</p>
