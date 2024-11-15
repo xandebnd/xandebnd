@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p align="center" font-size="x-large">Estudando</p>
+<p align="center" font-size="30px">Estudando</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,ts,mongodb" />
