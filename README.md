@@ -1,4 +1,4 @@
-![Alexandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xandebnd&show_icons=true&theme=dark)
+![Alexandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xandebnd&count_private=true&cache_seconds=1show&icons=true&theme=dark)
 
 ### 🛠 Tecnologias que uso no dia a dia:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
