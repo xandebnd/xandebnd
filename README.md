@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou Alexandre Bandeira!
 
-Desenvolvedor Front-end focado em criar interfaces modernas e funcionais, com paixão por aprender novas tecnologias e aprimorar constantemente minhas habilidades.
+Entusiasta da programação, com paixão por aprender novas tecnologias e aprimorar constantemente minhas habilidades.
 
 ---
 
