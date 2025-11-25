@@ -1,37 +1,44 @@
-## 👋 Olá, eu sou Alexandre Bandeira!
+## 👋 Olá, eu sou Alexandre Bandeira
 
-Entusiasta da programação, com paixão por aprender novas tecnologias e aprimorar constantemente minhas habilidades.
-
----
-
-### 📊 GitHub Stats
-
-![Alexandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xandebnd&count_private=true&show_icons=true&theme=dark)
+Entusiasta da programação e apaixonado por aprender novas tecnologias.
 
 ---
 
-### 🛠 Tecnologias que uso no dia a dia
+### 🛠 Tecnologias que uso
 
-<p>
+<div>
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=javascript" />
-</p>
+</div>
 
 ---
 
 ### 📚 Atualmente estudando
 
-<p>
+<div>
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=ts" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=go" />
-</p>
+</div>
 
 ---
 
-### 📫 Onde me encontrar
+### 📊 Estatísticas
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/xandebnd/)
+<div>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=xandebnd&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandebnd&layout=compact&theme=transparent&hide_border=true" />
+</div>
+
+---
+
+### 📫 Contato
+
+<div>
+  <a href="https://www.linkedin.com/in/xandebnd/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</div>
